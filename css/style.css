@@ -1,0 +1,35 @@
+.navigation {
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(245, 176, 87);
+}
+
+#nav {
+    background-color: seagreen;
+}
+
+#left {
+    height: 500px;
+    float: left;
+    background-color: seashell;
+    width: 29%;
+}
+
+#right {
+    height: 500px;
+    float: left;
+    background-color: rgb(187, 236, 187);
+    width: 71%; 
+}
+
+#top {
+    height: 200px;
+    float: inline-start;
+    background-color: rgb(212, 197, 177);
+}
+
+#bottom {
+    height: 300px;
+    float: inline-end;
+    background-color: mintcream;
+}
